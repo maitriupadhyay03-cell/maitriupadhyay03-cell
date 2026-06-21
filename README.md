@@ -1,6 +1,6 @@
 # Maitri Upadhyay
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=15&duration=2500&pause=1500&color=8B949E&vCenter=true&width=480&lines=Software+Developer;AI+Undergraduate+%C2%B7+NIT+Surat;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1500&color=8B949E&vCenter=true&width=480&lines=Software+Developer;AI+Undergraduate+%C2%B7+NIT+Surat;Open+Source+Contributor)](https://git.io/typing-svg)
 
 **B.Tech Artificial Intelligence · Sardar Vallabhbhai National Institute of Technology, Surat**
 
@@ -9,6 +9,11 @@
 ## About
 
 I am a second-year undergraduate student pursuing Artificial Intelligence at NIT Surat. My primary interests lie at the intersection of software development, machine learning, and systems programming. I build practical projects to deepen my understanding of core CS concepts and actively contribute to open source.
+
+- 🎓 &nbsp;B.Tech AI at SVNIT Surat (2025–2029)
+- 💻 &nbsp;Focused on Python, C++, and Java development
+- 🌱 &nbsp;Exploring machine learning and data structures
+- 🤝 &nbsp;Open to collaboration on meaningful open-source projects
 
 ---
 
@@ -20,55 +25,65 @@ I am a second-year undergraduate student pursuing Artificial Intelligence at NIT
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Web & Databases**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Tools**
-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ## Projects
 
-**[NexaBank — Banking System](https://github.com/maitriupadhyay03-cell/Banking-System)**
-A full-stack web application simulating core banking operations. Built with Python (Flask) for the backend, SQLite for persistence, and plain HTML/CSS for the frontend. Features user authentication, account management, and transaction history.
+**[Banking System](https://github.com/maitriupadhyay03-cell/Banking-System)**
+A full-stack banking application built with Python (Flask), SQLite, HTML, and CSS. Implements core banking operations including account management, transactions, and balance tracking.
 
 **[Smart Parking System](https://github.com/maitriupadhyay03-cell/Smart-Parking-System)**
-A desktop application in Java featuring a GUI built with Java Swing, backed by a MySQL database. Supports session management, receipt generation, and an admin dashboard for monitoring parking activity.
+An automated parking management system designed to optimise space utilisation using real-time slot tracking and allocation logic.
 
 **[University Management System](https://github.com/maitriupadhyay03-cell/University-Management-System)**
-A terminal-based Java application implementing multi-role access for students, faculty, teaching assistants, and administrators. Designed with a focus on clean separation of roles and responsibilities.
+A database-driven system for managing student records, course enrollment, and faculty information, built with Java and MySQL.
 
 **[Buckshot Roulette](https://github.com/maitriupadhyay03-cell/Buckshot-Roulette)**
-A terminal-based recreation of Buckshot Roulette written in C, developed as a first-semester project. Demonstrates foundational programming concepts including game logic, control flow, and randomisation.
+A terminal-based game implementation in C++ with game logic and state management.
 
 ---
 
 ## Open Source Contributions
 
-I actively contribute to open source projects as a way to engage with real-world codebases and collaborate with the broader developer community. Recent contributions include pull requests to [langchain-ai/langchain](https://github.com/langchain-ai/langchain) and participation in Hacktoberfest initiatives.
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-27-blue?style=flat-square)
+![Issues](https://img.shields.io/badge/Issues-1-lightgrey?style=flat-square)
+
+Active contributor on GitHub — engaging with repositories across Python, C++, and web development domains.
 
 ---
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maitriupadhyay03-cell&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitriupadhyay03-cell&layout=compact&theme=default&hide_border=true" height="160" alt="Top Languages" />
-</p>
+![Maitri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maitriupadhyay03-cell&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maitriupadhyay03-cell&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 ## Education
 
-**Sardar Vallabhbhai National Institute of Technology, Surat**
-B.Tech in Artificial Intelligence · 2025 – 2029
+**B.Tech in Artificial Intelligence**
+Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat · 2025 – 2029
+
+**Certifications**
+- Python Programming — Scrimba
+- Data Structures & Algorithms — Scrimba
 
 ---
 
