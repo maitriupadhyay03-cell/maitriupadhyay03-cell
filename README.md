@@ -1,5 +1,7 @@
 # Maitri Upadhyay
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=500&lines=Software+Developer+%26+AI+Undergraduate;Open+Source+Contributor;Building+projects+%26+exploring+ML)](https://git.io/typing-svg)
+
 **B.Tech Artificial Intelligence · Sardar Vallabhbhai National Institute of Technology, Surat**
 
 ---
