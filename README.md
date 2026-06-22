@@ -1,6 +1,6 @@
 # Maitri Upadhyay
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1500&color=8B949E&vCenter=true&width=480&lines=Software+Developer;AI+Undergraduate+%C2%B7+NIT+Surat;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1500&color=8B949E&vCenter=true&width=480&lines=AI+Undergraduate+%C2%B7+NIT+Surat;Open+Source+Contributor)](https://git.io/typing-svg)
 
 **B.Tech Artificial Intelligence · Sardar Vallabhbhai National Institute of Technology, Surat**
 
