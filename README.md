@@ -69,25 +69,25 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 
 ## 👩‍💻 Terminal Mode
 
-```text
-> whoami
-Maitri Upadhyay | B.Tech AI @ NIT Surat
+```
+whoami
+  Maitri Upadhyay | B.Tech AI @ NIT Surat
 
-> pwd
-~/projects/ai-ml
+pwd
+  ~/projects/ai-ml
 
-> ls -a
-Buckshot-Roulette
-Smart-Parking-System
-University-Management-System
-Certifications
-Open-to-Internships
+ls -a
+  Buckshot-Roulette
+  Smart-Parking-System
+  University-Management-System
+  Certifications
+  Open-to-Internships
 
-> cat goals.txt
-- Build impactful AI/ML projects
-- Master DSA and competitive programming
-- Contribute to open source
-- Land a great internship or research role
+cat goals.txt
+  - Build impactful AI/ML projects
+  - Master DSA and competitive programming
+  - Contribute to open source
+  - Land a great internship or research role
 ```
 
 ---
