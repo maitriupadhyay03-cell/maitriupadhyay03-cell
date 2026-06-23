@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#1a1a2e;">Maitri Upadhyay</h1>
+<h1 align="center" style="color:purple; font-family:Georgia, serif; font-size:60px;">Maitri Upadhyay</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=AAAAAA&center=true&vCenter=true&multiline=false&width=900&height=40&lines=B.Tech+Artificial+Intelligence+%2729+%40+NIT+Surat;AI+Learner;Building+Projects;Exploring+ML" alt="Typing SVG" />
