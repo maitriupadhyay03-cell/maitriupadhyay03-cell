@@ -1,23 +1,22 @@
-<h1 align="center">Maitri Upadhyay</h1>
+<h1 align="center" style="color:#1a1a2e;">Maitri Upadhyay</h1>
 
-<h3 align="center">B.Tech Artificial Intelligence '29 · NIT Surat</h3>
+<h3 align="center" style="color:#1a1a2e;">B.Tech Artificial Intelligence '29 &nbsp;·&nbsp; NIT Surat</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-upadhyay--maitri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Bhavnagar%2C+Gujarat-333333?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=maitriupadhyay03-cell&style=for-the-badge&color=333333" />
+  <img src="https://img.shields.io/badge/Location-Bhavnagar%2C+Gujarat-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-```text
-B.Tech Artificial Intelligence @ SVNIT, Surat  (2025 - Present)
-Member                         ->  Nexus - NIT Surat  (Aug 2025 - Present)
-```
+B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building practical projects through code and exploring AI/ML concepts.
 
-> 🤖 Learning **AI · ML · Python · C++ · Java · DSA** | Open to Internships & Research
+- 🤖 **Interests:** Artificial Intelligence · Machine Learning · DSA
+- 💻 **Languages:** Python · C++ · Java · C
+- 🗄️ **Database:** MySQL
+- 🏛️ **Member** @ Nexus - NIT Surat (Aug 2025 – Present)
+- 🎯 Open to **Internships & Research** opportunities
 
 ---
 
@@ -54,7 +53,7 @@ Member                         ->  Nexus - NIT Surat  (Aug 2025 - Present)
 
 | Project | Description | Link |
 |---|---|---|
-| 🏦 NexaBank | Banking web app with customer, teller & admin roles. Flask + SQLite, ACID transactions, triggers | [🔗 Repo](https://github.com/maitriupadhyay03-cell) |
+| 🎮 Buckshot-Roulette | A simple terminal-based Buckshot Roulette game made in C, created during the first semester | [🔗 Repo](https://github.com/maitriupadhyay03-cell/Buckshot-Roulette) |
 | 🚗 Smart Parking System | Java + MySQL simulator for cars, trucks & motorcycles with payment & owner dashboard | [🔗 Repo](https://github.com/maitriupadhyay03-cell/Smart-Parking-System) |
 | 🎓 University Management System | Terminal-based Java app with role-based access for Students, Teachers, TAs & Admins | [🔗 Repo](https://github.com/maitriupadhyay03-cell/University-Management-System) |
 
@@ -72,29 +71,29 @@ Member                         ->  Nexus - NIT Surat  (Aug 2025 - Present)
 
 ```bash
 > whoami
-🤖 Maitri Upadhyay | B.Tech AI @ NIT Surat
+Maitri Upadhyay | B.Tech AI @ NIT Surat
 
 > pwd
 ~/projects/ai-ml
 
 > ls -a
-📁 NexaBank
-📁 Smart-Parking-System
-📁 University-Management-System
-📁 Certifications
-📁 Open-to-Internships
+Buckshot-Roulette
+Smart-Parking-System
+University-Management-System
+Certifications
+Open-to-Internships
 
 > cat goals.txt
-- Build impactful AI/ML projects 🚀
-- Master DSA & competitive programming 💡
-- Contribute to open source 🌱
-- Land a great internship or research role 🎯
+- Build impactful AI/ML projects
+- Master DSA and competitive programming
+- Contribute to open source
+- Land a great internship or research role
 ```
 
 ---
 
 <p align="center">
-  <em>Building one project at a time, learning every day. 🫶🏻</em>
+  <em>Building one project at a time, learning every day.</em>
   <br/>
-  <strong>💫 Curious. Consistent. Code-driven.</strong>
+  <strong>Curious. Consistent. Code-driven.</strong>
 </p>
