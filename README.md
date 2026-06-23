@@ -69,7 +69,7 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 
 ## 👩‍💻 Terminal Mode
 
-```bash
+```text
 > whoami
 Maitri Upadhyay | B.Tech AI @ NIT Surat
 
