@@ -1,93 +1,131 @@
-# Maitri Upadhyay
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1500&color=00C9FF&center=true&vCenter=true&multiline=false&width=900&height=60&lines=Hey+%F0%9F%91%8B+I'm+Maitri+Upadhyay%2C+Data+Analyst" alt="Typing SVG" />
+</h1>h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1500&color=8B949E&vCenter=true&width=480&lines=AI+Undergraduate+%C2%B7+NIT+Surat;Open+Source+Contributor)](https://git.io/typing-svg)
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=AAAAAA&center=true&vCenter=true&multiline=false&width=900&height=40&lines=SpiceJet+Limited+%7C+Ex-Collegedunia+%7C+USCT%2C+GGSIPU" alt="Typing SVG" />
+</h3>h3>
 
-**B.Tech Artificial Intelligence · Sardar Vallabhbhai National Institute of Technology, Surat**
-
----
-
-## About
-
-I am a second-year undergraduate student pursuing Artificial Intelligence at NIT Surat. My primary interests lie at the intersection of software development, machine learning, and systems programming. I build practical projects to deepen my understanding of core CS concepts and actively contribute to open source.
-
-- 🎓 &nbsp;B.Tech AI at SVNIT Surat (2025–2029)
-- 💻 &nbsp;Focused on Python, C++, and Java development
-- 🌱 &nbsp;Exploring machine learning and data structures
-- 🤝 &nbsp;Open to collaboration on meaningful open-source projects
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-maitri--upadhyay-0099FF?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/GitHub-maitriupadhyay03--cell-BB99FF?style=for-the-badge&logo=github" />
+      <img src="https://img.shields.io/badge/Location-Gurugram%2C+India-FF6F00?style=for-the-badge&logo=googlemaps&logoColor=white" />
+        <img src="https://komarev.com/ghpvc/?username=maitriupadhyay03-cell&style=for-the-badge&color=FF6F00" />
+</p>p>
 
 ---
 
-## Technical Skills
+## 🧑🏻‍💻 About Me
 
-**Languages**
+```text
+BTech Biochemical Engineering @ USCT, GGSIPU (2018-2022)
+Data Analyst (Flight Revenue Mgmt)  ->  SpiceJet Limited
+Ex-Data Analyst                     ->  Collegedunia
+Intern                              ->  Indian Institute of Chemical Engineers
+Research Intern                     ->  Eduvictors Solutions
+Head Girl                           ->  NSS, GGSIPU
+Member                              ->  Enactus
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+> 📊 Working on **Revenue Management · SQL Analytics · Power BI Dashboards · Data Storytelling**
+>
+> ---
+>
+> ## 🧰 Tech Stack & Tools
+>
+> <p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,python,github,vscode,figma" />
+  </p>
 
-**Web & Databases**
+  <p align="center">
+    <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+          <img src="https://img.shields.io/badge/Python-Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </p>p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ---
 
-**Tools & Platforms**
+  ## 📊 My GitHub Analytics
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=maitriupadhyay03-cell&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maitriupadhyay03-cell&theme=tokyonight&hide_border=true" width="47%" />
+  </p>p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitriupadhyay03-cell&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  </p>p>
+
+  ---
+
+  ## 🏆 GitHub Trophies
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=maitriupadhyay03-cell&theme=tokyonight&no-frame=true&row=1&column=7" />
+  </p>p>
+
+  ---
+
+  ## 🏅 Badges & Achievements
+
+  🏅 MySQL Bootcamp – Udemy (Sep 2024)
+
+  🏅 Lean Six Sigma Yellow Belt (ICYB) – OTIFAS / IIChE (Jun 2021)
+
+  🏅 Head Girl – National Service Scheme, GGSIPU
+
+  🏅 Member – Enactus (Social Entrepreneurship Community)
+
+  ---
+
+  ## 💼 Work Experience
+
+  | Role | Company | Duration |
+  |---|---|---|
+  | 📈 Data Analyst – Revenue Management | SpiceJet Limited | May 2024 – Present |
+  | 📊 Data Analyst | Collegedunia | Jul 2022 – Apr 2024 |
+  | 🔬 Intern | Indian Institute of Chemical Engineers | Mar–Apr 2021 |
+  | ⚗️ Summer Intern | Indian Institute of Chemical Engineers | Jun–Jul 2020 |
+  | 📝 Intern | Eduvictors Solutions | May–Jun 2020 |
+
+  ---
+
+  ## 📜 Certifications
+
+  ✅ MySQL Bootcamp – Udemy (Sep 2024)
+  ✅ Lean Six Sigma Yellow Belt – OTIFAS / IIChE (Jun 2021)
+  ✅ Petroleum Refinery – Online Course, IIChE
+
+  ---
+
+  ## 👩‍💻 Terminal Mode
+
+  ```bash
+> whoami
+📊 Maitri Upadhyay | Data Analyst @ SpiceJet Limited
+
+> pwd
+~/analytics/revenue-management
+
+> ls -a
+📁 SQL-Projects
+📁 Power-BI-Dashboards
+📁 Python-Analytics
+📁 Certifications
+📁 Open-to-Work
+
+> cat goals.txt
+- Build impactful data projects 🚀
+- Master advanced analytics & ML 🧑‍💻
+- Contribute to open source data tools 🌱
+- Land a dream Data role 💡
+```
 
 ---
 
-## Projects
-
-**[Banking System](https://github.com/maitriupadhyay03-cell/Banking-System)**
-A full-stack banking application built with Python (Flask), SQLite, HTML, and CSS. Implements core banking operations including account management, transactions, and balance tracking.
-
-**[Smart Parking System](https://github.com/maitriupadhyay03-cell/Smart-Parking-System)**
-An automated parking management system designed to optimise space utilisation using real-time slot tracking and allocation logic.
-
-**[University Management System](https://github.com/maitriupadhyay03-cell/University-Management-System)**
-A database-driven system for managing student records, course enrollment, and faculty information, built with Java and MySQL.
-
-**[Buckshot Roulette](https://github.com/maitriupadhyay03-cell/Buckshot-Roulette)**
-A terminal-based game implementation in C++ with game logic and state management.
-
----
-
-## Open Source Contributions
-
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-27-blue?style=flat-square)
-![Issues](https://img.shields.io/badge/Issues-1-lightgrey?style=flat-square)
-
-Active contributor on GitHub — engaging with repositories across Python, C++, and web development domains.
-
----
-
-## GitHub Stats
-
-![Maitri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maitriupadhyay03-cell&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maitriupadhyay03-cell&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-## Education
-
-**B.Tech in Artificial Intelligence**
-Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat · 2025 – 2029
-
-**Certifications**
-- Python Programming — Scrimba
-- Data Structures & Algorithms — Scrimba
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upadhyay-maitri/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maitriupadhyay03-cell)
+<p align="center">
+  <em>Data tells a story — I make sure it's heard. 🫶🏻</em>em>
+    <br/>
+      <strong>💫 Analytical. Driven. Impact-focused.</strong>strong>
+</p>p></strong></em>
