@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&color=FFD700&center=true&vCenter=true&duration=0&pause=99999&multiline=false&width=600&height=80&lines=Maitri+Upadhyay" alt="Maitri Upadhyay" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=80&section=header&text=Maitri%20Upadhyay&fontSize=60&fontColor=FFD700&fontAlignY=55&animation=false&fontFamily=georgia" alt="Maitri Upadhyay" /></p>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=AAAAAA&center=true&vCenter=true&multiline=false&width=900&height=40&lines=B.Tech+Artificial+Intelligence+%2729+%40+NIT+Surat;AI+Learner;Building+Projects;Exploring+ML" alt="Typing SVG" />
