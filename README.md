@@ -1,45 +1,38 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&pause=1500&color=00C9FF&center=true&vCenter=true&multiline=false&width=900&height=80&lines=Hey+%F0%9F%91%8B+I'm+Maitri+Upadhyay" alt="Typing SVG" />
-</h1>
+<h1 align="center">Maitri Upadhyay</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1500&color=AAAAAA&center=true&vCenter=true&multiline=false&width=900&height=50&lines=Data+Analyst+%7C+Flight+Analyst+(Revenue+Management)+%40+SpiceJet" alt="Typing SVG" />
-</h3>
+<h3 align="center">B.Tech Artificial Intelligence '29 · NIT Surat</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-maitri--upadhyay-0099FF?style=for-the-badge&logo=linkedin" />
-  <img src="https://img.shields.io/badge/Location-Gurugram%2C+India-FF6F00?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=maitriupadhyay03-cell&style=for-the-badge&color=FF6F00" />
+  <img src="https://img.shields.io/badge/LinkedIn-upadhyay--maitri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Bhavnagar%2C+Gujarat-333333?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=maitriupadhyay03-cell&style=for-the-badge&color=333333" />
 </p>
 
 ---
 
-## 🧑🏻‍💻 About Me
+## 🧑‍💻 About Me
 
 ```text
-BTech, Biochemical Engineering @ USCT, GGSIPU (2018 - 2022)
-Data Analyst (Revenue Management)  ->  SpiceJet Limited                      (May 2024 - Present)
-Data Analyst                       ->  Collegedunia                          (Jul 2022 - Apr 2024)
-Intern                             ->  Indian Institute of Chemical Engineers (Mar - Apr 2021)
-Summer Intern                      ->  Indian Institute of Chemical Engineers (Jun - Jul 2020)
-Intern                             ->  Eduvictors Solutions                  (May - Jun 2020)
+B.Tech Artificial Intelligence @ SVNIT, Surat  (2025 - Present)
+Member                         ->  Nexus - NIT Surat  (Aug 2025 - Present)
 ```
 
-> 📊 Working on **Revenue Management · SQL Analytics · Power BI Dashboards · Data Storytelling**
+> 🤖 Learning **AI · ML · Python · C++ · Java · DSA** | Open to Internships & Research
 
 ---
 
-## 🧰 Tech Stack and Tools
+## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,python,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,mysql,github,vscode,idea" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-333333?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 
 ---
@@ -57,25 +50,21 @@ Intern                             ->  Eduvictors Solutions                  (Ma
 
 ---
 
-## 💼 Work Experience
+## 🔥 Featured Projects
 
-| Role | Company | Duration |
+| Project | Description | Link |
 |---|---|---|
-| 📈 Data Analyst – Revenue Management | SpiceJet Limited | May 2024 – Present |
-| 📊 Data Analyst | Collegedunia | Jul 2022 – Apr 2024 |
-| 🔬 Intern | Indian Institute of Chemical Engineers | Mar – Apr 2021 |
-| ⚗️ Summer Intern | Indian Institute of Chemical Engineers | Jun – Jul 2020 |
-| 📝 Intern | Eduvictors Solutions | May – Jun 2020 |
+| 🏦 NexaBank | Banking web app with customer, teller & admin roles. Flask + SQLite, ACID transactions, triggers | [🔗 Repo](https://github.com/maitriupadhyay03-cell) |
+| 🚗 Smart Parking System | Java + MySQL simulator for cars, trucks & motorcycles with payment & owner dashboard | [🔗 Repo](https://github.com/maitriupadhyay03-cell/Smart-Parking-System) |
+| 🎓 University Management System | Terminal-based Java app with role-based access for Students, Teachers, TAs & Admins | [🔗 Repo](https://github.com/maitriupadhyay03-cell/University-Management-System) |
 
 ---
 
 ## 📜 Certifications
 
-✅ MySQL Bootcamp – Udemy (Sep 2024)
+✅ Python Course – Scrimba (Jun 2026)
 
-✅ Lean Six Sigma Yellow Belt (ICYB) – OTIFAS / IIChE (Jun 2021)
-
-✅ Petroleum Refinery – Online Course, IIChE
+✅ Data Structures and Algorithms (DSA) – Scrimba (Jun 2026)
 
 ---
 
@@ -83,29 +72,29 @@ Intern                             ->  Eduvictors Solutions                  (Ma
 
 ```bash
 > whoami
-📊 Maitri Upadhyay | Data Analyst @ SpiceJet Limited
+🤖 Maitri Upadhyay | B.Tech AI @ NIT Surat
 
 > pwd
-~/analytics/revenue-management
+~/projects/ai-ml
 
 > ls -a
-📁 SQL-Projects
-📁 Power-BI-Dashboards
-📁 Python-Analytics
+📁 NexaBank
+📁 Smart-Parking-System
+📁 University-Management-System
 📁 Certifications
-📁 Open-to-Work
+📁 Open-to-Internships
 
 > cat goals.txt
-- Build impactful data projects 🚀
-- Master advanced analytics & ML 🧑‍💻
-- Contribute to open source data tools 🌱
-- Land a dream Data role 💡
+- Build impactful AI/ML projects 🚀
+- Master DSA & competitive programming 💡
+- Contribute to open source 🌱
+- Land a great internship or research role 🎯
 ```
 
 ---
 
 <p align="center">
-  <em>Data tells a story — I make sure it's heard. 🫶🏻</em>
+  <em>Building one project at a time, learning every day. 🫶🏻</em>
   <br/>
-  <strong>💫 Analytical. Driven. Impact-focused.</strong>
+  <strong>💫 Curious. Consistent. Code-driven.</strong>
 </p>
