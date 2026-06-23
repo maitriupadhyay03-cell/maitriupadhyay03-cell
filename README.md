@@ -1,11 +1,11 @@
 <h1 align="center" style="color:#1a1a2e;">Maitri Upadhyay</h1>
 
-<h3 align="center" style="color:#1a1a2e;">B.Tech Artificial Intelligence '29 &nbsp;·&nbsp; NIT Surat</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=AAAAAA&center=true&vCenter=true&multiline=false&width=900&height=40&lines=B.Tech+Artificial+Intelligence+%2729+%40+NIT+Surat;AI+Learner;Building+Projects;Exploring+ML" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-Maitri%20Upadhyay-0A3D6B?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-maitriupadhyay03--cell-4B2E83?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Bhavnagar%2C%20Gujarat-1A5276?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Maitri%20Upadhyay-0A3D6B?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/GitHub-maitriupadhyay03--cell-4B2E83?style=for-the-badge&logo=github&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Location-Bhavnagar%2C%20Gujarat-1A5276?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
