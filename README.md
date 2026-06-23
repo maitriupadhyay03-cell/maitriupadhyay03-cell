@@ -3,7 +3,7 @@
 <h3 align="center" style="color:#1a1a2e;">B.Tech Artificial Intelligence '29 &nbsp;·&nbsp; NIT Surat</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Bhavnagar%2C+Gujarat-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Bhavnagar%2C%20Gujarat-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
