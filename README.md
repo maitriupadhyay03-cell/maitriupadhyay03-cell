@@ -45,7 +45,7 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maitriupadhyay03-cell&theme=tokyonight&hide_border=true&cache_seconds=1" width="98%" />
+    <img src="https://streak-stats.demolab.com/?user=maitriupadhyay03-cell&theme=tokyonight&hide_border=true&cache_seconds=1" width="98%" />
 </p>
 
 <p align="center">
