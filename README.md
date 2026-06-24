@@ -41,22 +41,22 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 ## 📊 My GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maitriupadhyay03-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maitriupadhyay03-cell&show_icons=true&theme=tokyonight&hide_border=true&cohunt_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maitriupadhyay03-cell&theme=tokyonight&hide_border=true" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maitriupadhyay03-cell&theme=tokyonight&hide_border=true&cache_seconds=1" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maitriupadhyay03-cell&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maitriupadhyay03-cell&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maitriupadhyay03-cell&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maitriupadhyay03-cell&theme=tokyonight&cache_seconds=1" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maitriupadhyay03-cell&theme=tokyonight&cache_seconds=1" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maitriupadhyay03-cell&theme=tokyonight&cache_seconds=1" width="32%" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maitriupadhyay03-cell&theme=tokyonight&utcOffset=5.5" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maitriupadhyay03-cell&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maitriupadhyay03-cell&theme=tokyonight&cache_seconds=1" width="49%" />
 </p>
 
 ---
