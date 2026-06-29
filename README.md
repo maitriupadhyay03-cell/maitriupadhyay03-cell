@@ -41,17 +41,13 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 ## 📊 My GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=maitriupadhyay03-cell&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maitriupadhyay03-cell&theme=github_dark" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maitriupadhyay03-cell&theme=github_dark" alt="Top Languages by Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maitriupadhyay03-cell&theme=github_dark" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maitriupadhyay03-cell&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maitriupadhyay03-cell&theme=github_dark" alt="Contribution Overview" />
 </p>
 
 ---
@@ -74,5 +70,3 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 ---
 
 <p align="center">Building one project at a time, learning every day.<br/>Curious. Consistent. Code-driven.</p>
-
-<!-- last-updated: 2026-06-29T19:40:04Z -->
