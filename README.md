@@ -1,11 +1,14 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Maitri%20Upadhyay&fontSize=45&fontColor=FFD700&fontAlignY=55&animation=false&fontFamily=georgia" alt="Maitri Upadhyay" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1500&color=FFFFFF&center=true&vCenter=true&multiline=false&width=900&height=50&lines=B.Tech+Artificial+Intelligence+%2729+%40+NIT+Surat;AI+Learner;Building+Projects;Exploring+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1500&color=FFFFFF&center=true&vCenter=true&multiline=false&width=900&height=50&lines=B.Tech+Artificial+Intelligence+%2729+%40+NIT+Surat;AI+Learner;Building+Projects;Exploring+ML" alt="Typing SVG"
+/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-Maitri%20Upadhyay-E53935?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/GitHub-maitriupadhyay03--cell-1565C0?style=for-the-badge&logo=github&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Location-Bhavnagar%2C%20Gujarat-F57C00?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Maitri%20Upadhyay-E53935?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-maitriupadhyay03--cell-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/📍%20Location-Bhavnagar%2C%20Gujarat-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -17,15 +20,20 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 - 🤖 **Interests:** Artificial Intelligence · Machine Learning · DSA
 - 💻 **Languages:** Python · C++ · Java · C
 - 🗄️ **Database:** MySQL
-- 🏛️ **Member** @ Nexus - NIT Surat (Aug 2025 – Present)
-- 🎯 Open to Internships & Research opportunities
+- 🏛️ **Member @ Nexus** - NIT Surat (Aug 2025 – Present)
+- 🎯 **Open to** Internships & Research opportunities
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,mysql,git,github,vscode,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -33,15 +41,17 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 ## 📊 My GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maitriupadhyay03-cell&theme=tokyonight" width="32%" />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=maitriupadhyay03-cell&theme=tokyonight&hide_border=true" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maitriupadhyay03-cell&theme=tokyonight" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maitriupadhyay03-cell&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maitriupadhyay03-cell&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maitriupadhyay03-cell&theme=tokyonight&utcOffset=5.5" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maitriupadhyay03-cell&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maitriupadhyay03-cell&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maitriupadhyay03-cell&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maitriupadhyay03-cell&theme=github_dark" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maitriupadhyay03-cell&theme=github_dark" alt="Profile Details" />
 </p>
 
 ---
@@ -49,7 +59,7 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 ## 🔥 Featured Projects
 
 | Project | Description | Link |
-|---------|-------------|------|
+|---------|------------|------|
 | 🎮 Buckshot-Roulette | A simple terminal-based Buckshot Roulette game made in C, created during the first semester | [🔗 Repo](https://github.com/maitriupadhyay03-cell/Buckshot-Roulette) |
 | 🚗 Smart Parking System | Java + MySQL simulator for cars, trucks & motorcycles with payment & owner dashboard | [🔗 Repo](https://github.com/maitriupadhyay03-cell/Smart-Parking-System) |
 | 🎓 University Management System | Terminal-based Java app with role-based access for Students, Teachers, TAs & Admins | [🔗 Repo](https://github.com/maitriupadhyay03-cell/University-Management-System) |
@@ -58,16 +68,9 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 
 ## 📜 Certifications
 
-✅ Python Course – Scrimba (Jun 2026)
-
-✅ Data Structures and Algorithms (DSA) – Scrimba (Jun 2026)
+- ✅ **Python Course** – Scrimba (Jun 2026)
+- ✅ **Data Structures and Algorithms (DSA)** – Scrimba (Jun 2026)
 
 ---
 
-<p align="center">
-  <em>Building one project at a time, learning every day.</em>
-  <br/>
-  <strong>Curious. Consistent. Code-driven.</strong>
-</p>
-
-<!-- last-updated: 2026-06-29T19:15:56Z -->
+<p align="center">Building one project at a time, learning every day.<br/>Curious. Consistent. Code-driven.</p>
