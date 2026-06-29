@@ -34,12 +34,12 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maitriupadhyay03-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=maitriupadhyay03-cell&theme=tokyonight&hide_border=true&mode=weekly" width="49%" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=maitriupadhyay03-cell&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitriupadhyay03-cell&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maitriupadhyay03-cell&theme=tokyonight&utcOffset=5.5" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maitriupadhyay03-cell&theme=tokyonight&hide_border=true&layout=compact" width="49%" />
 </p>
 
 ---
@@ -67,5 +67,3 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
   <br/>
   <strong>Curious. Consistent. Code-driven.</strong>
 </p>
-
-<!-- last-updated: 2026-06-29T19:00:36Z -->
