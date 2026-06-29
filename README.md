@@ -41,7 +41,7 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 ## 📊 My GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=maitriupadhyay03-cell&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&type=svg" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=maitriupadhyay03-cell&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
@@ -74,5 +74,3 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 ---
 
 <p align="center">Building one project at a time, learning every day.<br/>Curious. Consistent. Code-driven.</p>
-
-<!-- last-updated: 2026-06-29T19:35:53Z -->
