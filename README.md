@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-Maitri%20Upadhyay-E53935?style=for-the-badge&logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-maitriupadhyay03--cell-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/📍%20Location-Bhavnagar%2C%20Gujarat-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Bhavnagar%2C%20Gujarat-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 ## 📊 My GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maitriupadhyay03-cell&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=maitriupadhyay03-cell&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&type=svg" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
@@ -74,5 +74,3 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 ---
 
 <p align="center">Building one project at a time, learning every day.<br/>Curious. Consistent. Code-driven.</p>
-
-<!-- last-updated: 2026-06-29T19:30:00Z -->
