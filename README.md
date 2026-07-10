@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Maitri%20Upadhyay&fontSize=45&fontColor=8A2BE2&fontAlignY=55&animation=false&fontFamily=georgia" alt="Maitri Upadhyay" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=70&section=header&text=Maitri%20Upadhyay&fontSize=45&fontColor=DEB2E4&fontAlignY=55&animation=false&fontFamily=georgia" alt="Maitri Upadhyay" /></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1500&color=FFFFFF&center=true&vCenter=true&multiline=false&width=900&height=50&lines=B.Tech+Artificial+Intelligence+%2729+%40+NIT+Surat;AI+Learner;Building+Projects;Exploring+ML" alt="Typing SVG"
@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-Maitri%20Upadhyay-E53935?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-maitriupadhyay03--cell-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Bhavnagar%2C%20Gujarat-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LinkedIn-Maitri%20Upadhyay-F1738A?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-maitriupadhyay03--cell-EFDCEF?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Bhavnagar%2C%20Gujarat-F6B8C0?style=for-the-badge" />
 </p>
 
 ---
