@@ -70,4 +70,4 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 
 <p align="center">Building one project at a time, learning every day.<br/>Curious. Consistent. Code-driven.</p>
 
-<!-- last-updated: 2026-07-11T03:17:40Z -->
+<!-- last-updated: 2026-07-11T06:18:57Z -->
