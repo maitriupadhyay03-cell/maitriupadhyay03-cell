@@ -39,9 +39,10 @@ B.Tech Artificial Intelligence student at NIT Surat (2025 – Present), building
 ---
 
 ## 📊 My GitHub Analytics
+
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=maitriupadhyay03-cell&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitriupadhyay03-cell&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maitriupadhyay03-cell&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maitriupadhyay03-cell&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
