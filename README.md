@@ -27,3 +27,5 @@ B.Tech Artificial Intelligence student at NIT Surat (2025–2029). I build resea
 Python · SQL · pandas/NumPy · SQLite · MySQL · XBRL · LLM APIs · pytest · Git · C++ · Java · C
 
 Member of Nexus (technical club, NIT Surat). Open to research internships in AI/ML, document understanding and quantitative finance.
+
+<!-- last-updated: 2026-11-19T08:18:35Z -->
