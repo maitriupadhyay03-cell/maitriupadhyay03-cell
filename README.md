@@ -28,4 +28,4 @@ Python · SQL · pandas/NumPy · SQLite · MySQL · XBRL · LLM APIs · pytest �
 
 Member of Nexus (technical club, NIT Surat). Open to research internships in AI/ML, document understanding and quantitative finance.
 
-<!-- last-updated: 2026-11-27T07:44:05Z -->
+<!-- last-updated: 2026-11-27T17:58:45Z -->
